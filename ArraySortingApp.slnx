@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArraySortingApp/ArraySortingApp.csproj" />
+  <Project Path="IntegrationTests/IntegrationTests.csproj" Id="c3c1f2f5-e7f7-4a98-89cf-c8478b043917" />
+</Solution>
